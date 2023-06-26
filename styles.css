@@ -3,12 +3,16 @@ body {
 }
 
 .avatar {
-    width: 150;
+    width: 150px;
 }
 
 .card {
     padding: 20px;
+    width: 480px;
     display: flex;
+    justify-content: space-around;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .border-blue {
