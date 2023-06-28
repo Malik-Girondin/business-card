@@ -13,8 +13,16 @@ body {
     justify-content: space-around;
     margin-right: auto;
     margin-left: auto;
+    text-align: center;
+    color: #2b2839;
+    background-color: #ddebf8;
+    border-bottom: 5px solid #d8cefe;
 }
 
 .border-blue {
     border: 1px dotted blue;
+}
+
+img {
+    border: 3px solid rgb(255, 243, 243);
 }
